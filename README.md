@@ -4,6 +4,6 @@ A nation's pride is inherently associated to its quality-of-life progression for
 Research Questions:
 1. Does improved education outcomes impact registered firearm totals?
 2. Are increased poverty levels affecting registered firearm totals?
-Does region ethnicity groups differ vastly? How does this play into registered firearm count?
-What's the yearly trend for total guns distributed in a region?
-Is time progression, poverty, or education contributing most significantly to registered firearms per capita?
+3. Does region ethnicity groups differ vastly? How does this play into registered firearm count?
+4. What's the yearly trend for total guns distributed in a region?
+5. Is time progression, poverty, or education contributing most significantly to registered firearms per capita?
